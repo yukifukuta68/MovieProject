@@ -82,7 +82,7 @@ public class Movie implements Serializable {
 	public void setDuration(int duration) {
 		this.duration = duration;
 	}
-	
+	 
 	public void setReleaseStartDate(Date releaseStartDate) {
 		this.releaseStartDate = releaseStartDate;
 	}

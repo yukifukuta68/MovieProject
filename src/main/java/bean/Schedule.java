@@ -15,7 +15,7 @@ public class Schedule implements Serializable {
     }
     public void setScheduleId(int id){
         this.id = id;
-    }
+    } 
     public int getMovieId(){
         return movieId;
     }

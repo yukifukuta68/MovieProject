@@ -17,5 +17,5 @@ public class AdminDao {
     public void setPassword(String){
         return password;
     }
-
+ 
 }
