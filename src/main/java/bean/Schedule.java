@@ -11,6 +11,7 @@ public class Schedule implements Serializable {
     private Date endDatetime;
     private String screeningFormat;
     
+    
     public int getScheduleId(){
         return scheduleId;
     }
